@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "debug": "nodemon --inspect --ignore sessions/ --exec  babel-node ./server.js localhost 8081"
+    "debug": "nodemon --inspect --ignore sessions/ --exec  babel-node ./server.js localhost"
   },
   "keywords": [
     "Employee Mangement backend"
