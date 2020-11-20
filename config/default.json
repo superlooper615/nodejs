@@ -1,6 +1,0 @@
-{
-    "server_port": 8081,
-    "allowed_origins": [
-        "http://localhost:8080"
-    ]
-}
